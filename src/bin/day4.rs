@@ -53,9 +53,7 @@ fn main(){
                             factors.push_back(1 + factor)
                         }
 
-                    }
-
-                    
+                    }                    
                 }
             }
         }
